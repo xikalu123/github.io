@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://xikalu123.github.io/atom.xml" rel="self"/>
   <link href="http://xikalu123.github.io/"/>
-  <updated>2017-10-16T11:32:43+08:00</updated>
+  <updated>2017-10-16T13:59:01+08:00</updated>
   <id>http://xikalu123.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[我的第一篇博客]]></title>
+    <link href="http://xikalu123.github.io/blog/2017/10/16/wo-de-di-%5B%3F%5D-pian-bo-ke/"/>
+    <updated>2017-10-16T13:58:31+08:00</updated>
+    <id>http://xikalu123.github.io/blog/2017/10/16/wo-de-di-[?]-pian-bo-ke</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
