@@ -1,23 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://xikalu123.github.io/atom.xml" rel="self"/>
-  <link href="http://xikalu123.github.io/"/>
-  <updated>2017-10-16T15:51:56+08:00</updated>
-  <id>http://xikalu123.github.io/</id>
+  <title><![CDATA[Chen的技术博客]]></title>
+  <link href="http://blog.chenyuliang.com/atom.xml" rel="self"/>
+  <link href="http://blog.chenyuliang.com/"/>
+  <updated>2017-10-24T14:45:01+08:00</updated>
+  <id>http://blog.chenyuliang.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[陈宇亮]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
   
   <entry>
+    <title type="html"><![CDATA[SDWebImage详细解析之 SDImageCache]]></title>
+    <link href="http://blog.chenyuliang.com/blog/2017/10/24/sdwebimagexiang-xi-jie-xi-zhi-sdimagecache/"/>
+    <updated>2017-10-24T14:44:52+08:00</updated>
+    <id>http://blog.chenyuliang.com/blog/2017/10/24/sdwebimagexiang-xi-jie-xi-zhi-sdimagecache</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[我的第一篇博客]]></title>
-    <link href="http://xikalu123.github.io/blog/2017/10/16/wo-de-di-%5B%3F%5D-pian-bo-ke/"/>
+    <link href="http://blog.chenyuliang.com/blog/2017/10/16/wo-de-di-%5B%3F%5D-pian-bo-ke/"/>
     <updated>2017-10-16T13:58:31+08:00</updated>
-    <id>http://xikalu123.github.io/blog/2017/10/16/wo-de-di-[?]-pian-bo-ke</id>
+    <id>http://blog.chenyuliang.com/blog/2017/10/16/wo-de-di-[?]-pian-bo-ke</id>
     <content type="html"><![CDATA[<p>做为一个懒癌症患者，在筹备了将近半年以后，终于开通了自己的技术博客。从16年6月毕业到现在大概有1年多的时间了。跟着公司的项目陆陆续续开发了一系列的版本迭代，其中在iOS方面遇到了不少问题和研究了不少知识，之后会将自己在工作中的感悟写出来，不仅仅局限于技术方面的见解，也包括对生活和世界的一些感悟和规划。</p>
 
 <p>希望以后能更加坚强的面对这个世界的一些问题。</p>

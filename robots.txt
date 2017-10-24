@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://xikalu123.github.io/sitemap.xml 
+Sitemap: http://blog.chenyuliang.com/sitemap.xml 
