@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://blog.chenyuliang.com
+title: Chen的技术博客
+subtitle: 技术是探索世界的一种方式，更热爱真实的生活。
+author: 陈宇亮
 simple_search: https://www.google.com/search
 description:
 
